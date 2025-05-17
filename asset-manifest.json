@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/scholarshipp/static/css/main.9e86ba21.css",
-    "main.js": "/scholarshipp/static/js/main.39db80ed.js",
+    "main.js": "/scholarshipp/static/js/main.9394a3f0.js",
     "static/js/453.cc5fc497.chunk.js": "/scholarshipp/static/js/453.cc5fc497.chunk.js",
     "index.html": "/scholarshipp/index.html",
     "main.9e86ba21.css.map": "/scholarshipp/static/css/main.9e86ba21.css.map",
-    "main.39db80ed.js.map": "/scholarshipp/static/js/main.39db80ed.js.map",
+    "main.9394a3f0.js.map": "/scholarshipp/static/js/main.9394a3f0.js.map",
     "453.cc5fc497.chunk.js.map": "/scholarshipp/static/js/453.cc5fc497.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e86ba21.css",
-    "static/js/main.39db80ed.js"
+    "static/js/main.9394a3f0.js"
   ]
 }
